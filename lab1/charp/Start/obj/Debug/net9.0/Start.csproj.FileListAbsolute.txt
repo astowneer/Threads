@@ -1,0 +1,15 @@
+/Users/astowner/concurrency/lab1/charp/Start/bin/Debug/net9.0/Start
+/Users/astowner/concurrency/lab1/charp/Start/bin/Debug/net9.0/Start.deps.json
+/Users/astowner/concurrency/lab1/charp/Start/bin/Debug/net9.0/Start.runtimeconfig.json
+/Users/astowner/concurrency/lab1/charp/Start/bin/Debug/net9.0/Start.dll
+/Users/astowner/concurrency/lab1/charp/Start/bin/Debug/net9.0/Start.pdb
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.AssemblyInfoInputs.cache
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.AssemblyInfo.cs
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.csproj.CoreCompileInputs.cache
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.sourcelink.json
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.dll
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/refint/Start.dll
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.pdb
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/Start.genruntimeconfig.cache
+/Users/astowner/concurrency/lab1/charp/Start/obj/Debug/net9.0/ref/Start.dll
